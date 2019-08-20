@@ -1,2 +1,2 @@
-# hello-word
+# CISC7201
 First repository
